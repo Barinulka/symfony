@@ -1,2 +1,4 @@
-Запуск pgsql
-#docker-compose exec database psql app app
+# Запуск pgsql
+```
+docker-compose exec database psql app app
+```
